@@ -24,4 +24,10 @@ export const projects: Project[] = [
         details: "Python + gRPC + Ultralytics YOLO",
         link: "#",
     },
+    {
+        title: "Spot robot fetch 2",
+        description: "Wrote python code to allow a Spot robot to play fetch using CV.",
+        details: "Python + gRPC + Ultralytics YOLO",
+        link: "#",
+    },
 ];
